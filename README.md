@@ -2,7 +2,7 @@
 
 ## Descrição:
  Este repositório contém uma coleção de scripts Python simples e fáceis de entender. 
-## Cada script é projetado para demonstrar conceitos básicos de programação em Python.
+Cada script é projetado para demonstrar conceitos básicos de programação em Python.
 
 ## Estrutura do Repositório:
  ```
